@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'zhengfang';
+    src: url('../font/h1.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'shouxie';
+    src: url('../font/h2.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
